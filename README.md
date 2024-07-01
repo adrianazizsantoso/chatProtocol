@@ -1,19 +1,19 @@
 # Final Project Kelompok "Chat Protocol"
 oleh:
-Adrian Aziz Santoso (NRP 5025221229)
-David Ralphwaldo (NRP 05111940000190)
-Moh. Adib Syambudi (NRP 5025211017)
-Gilang Aliefidanto (NRP 5025211119)
-Dimas Aria Pujangga (NRP 5025211212)
-Anneu Tsabita (NRP 5025211026)
+- Adrian Aziz Santoso (NRP 5025221229)
+- David Ralphwaldo (NRP 05111940000190)
+- Moh. Adib Syambudi (NRP 5025211017)
+- Gilang Aliefidanto (NRP 5025211119)
+- Dimas Aria Pujangga (NRP 5025211212)
+- Anneu Tsabita (NRP 5025211026)
 
 ## Pembagian Tugas Antar Anggota Tim:
-Adrian Aziz Santoso: Mengimplementasikan private messaging
-David Ralphwaldo Martuaraja: implementasi UI
-Moh. Adib Syambudi: implementasi send/receive file
-Gilang Aliefidanto: implementasi group messaging
-Dimas Aria Pujannga: definisi protokol pertukaran antar server antar realm
-Anneu Tsabita: mengerjakan arsitektur implementasi 
+- Adrian Aziz Santoso: Mengimplementasikan private messaging
+- David Ralphwaldo Martuaraja: implementasi UI
+- Moh. Adib Syambudi: implementasi send/receive file
+- Gilang Aliefidanto: implementasi group messaging
+- Dimas Aria Pujannga: definisi protokol pertukaran antar server antar realm
+- Anneu Tsabita: mengerjakan arsitektur implementasi 
 
 ## Kami telah membuat repository GitHub untuk memudahkan dalam manajemen dan kolaborasi. Berikut adalah link untuk repository gitHub-nya:
 [https://github.com/adrianazizsantoso/chatProtocol](https://github.com/adrianazizsantoso/chatProtocol)
