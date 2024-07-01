@@ -15,7 +15,8 @@ oleh:
 - Dimas Aria Pujannga: definisi protokol pertukaran antar server antar realm
 - Anneu Tsabita: mengerjakan arsitektur implementasi 
 
-## Kami telah membuat repository GitHub untuk memudahkan dalam manajemen dan kolaborasi. Berikut adalah link untuk repository gitHub-nya:
+## Pembagian Tugas Antar Anggota Tim:
+Kami telah membuat repository GitHub untuk memudahkan dalam manajemen dan kolaborasi. Berikut adalah link untuk repository gitHub-nya:
 [https://github.com/adrianazizsantoso/chatProtocol](https://github.com/adrianazizsantoso/chatProtocol)
 
 ## Definisi Protokol Chat:
