@@ -3072,9 +3072,15 @@ Dengan menggunakan PyCharm, kita dapat menjalankan server dan client dengan menj
 
 [https://github.com/adrianazizsantoso/chatProtocol](https://github.com/adrianazizsantoso/chatProtocol)
 
+Tampilan saat mendaftar:
+
 <img width="414" alt="image" src="https://github.com/adrianazizsantoso/chatProtocol/assets/115202624/0e7f868f-dd30-4966-8864-62332b627f32">
 
+Tampilan saat login:
+
 <img width="414" alt="image" src="https://github.com/adrianazizsantoso/chatProtocol/assets/115202624/4bab73c9-1e66-428d-8d26-0c62e16fff79">
+
+Tampilan saat chatting:
 
 <img width="414" alt="image" src="https://github.com/adrianazizsantoso/chatProtocol/assets/115202624/f4d4b963-06f1-455e-ae9f-1e62359b982c">
 
